@@ -1,0 +1,7 @@
+C:\Users\tanulo\Desktop\aaaa\sanyi\sanyi\bin\Debug\sanyi.exe.config
+C:\Users\tanulo\Desktop\aaaa\sanyi\sanyi\bin\Debug\sanyi.exe
+C:\Users\tanulo\Desktop\aaaa\sanyi\sanyi\bin\Debug\sanyi.pdb
+C:\Users\tanulo\Desktop\aaaa\sanyi\sanyi\obj\Debug\sanyi.csprojAssemblyReference.cache
+C:\Users\tanulo\Desktop\aaaa\sanyi\sanyi\obj\Debug\sanyi.csproj.CoreCompileInputs.cache
+C:\Users\tanulo\Desktop\aaaa\sanyi\sanyi\obj\Debug\sanyi.exe
+C:\Users\tanulo\Desktop\aaaa\sanyi\sanyi\obj\Debug\sanyi.pdb
